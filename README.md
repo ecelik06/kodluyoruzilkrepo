@@ -20,3 +20,5 @@ Pull Requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------
+![Proje Resmi](resim.png)
